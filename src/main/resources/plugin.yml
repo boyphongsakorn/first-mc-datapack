@@ -1,0 +1,4 @@
+name: Firstpl
+version: '${project.version}'
+main: firstpl.firstpl.Firstpl
+api-version: 1.18
